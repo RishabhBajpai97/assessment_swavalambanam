@@ -1,0 +1,10 @@
+- To run the code, simply use flutter run command with main.dart file.
+- I have used the clean architecture with 3 different layers for different purpose.
+- Below listed dependencies are required:
+    - flutter_bloc: ^8.1.6
+    - flutter_tts: ^4.0.2
+    - fpdart: ^1.1.0
+    - get_it: ^7.7.0
+    - http: ^1.2.2
+- core folder contains core things required for our app such as themes, error handling etc.
+- I have used the feature based approach.
